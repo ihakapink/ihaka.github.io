@@ -1,0 +1,55 @@
+
+h2 {
+    font-family: 'FreeMono', monospace;
+    font-size: 40px;
+    Color: rgb(0, 255, 98);
+    text-align: center;
+  }
+
+  h3 {
+    font-family: 'FreeMono', monospace;
+    font-size: 20px;
+    Color: rgb(0, 255, 98);
+    text-align: center;
+  }
+
+  .topnav {
+    text-align: center;
+    background-color: white;
+    overflow: hidden;
+    display: block;
+    padding: 40px 40px 40px 40px;
+  }
+
+  .topnav a {
+    color: rgb(0, 81, 255);
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+
+  a { 
+    color: rgb(0, 81, 255);
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 30px;
+
+  }
+
+  p { 
+    font-family: 'FreeMono', monospace;
+    font-size: 20px;
+    Color: rgb(0, 255, 98);
+    text-align: center;
+
+  }
+
+  h1 {
+    text-align: center;
+    background-color: white;
+    overflow: hidden;
+    display: block;
+    padding: 10px 10px 10px 10px;
+  }
