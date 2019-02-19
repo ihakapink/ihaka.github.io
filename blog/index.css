@@ -2,14 +2,14 @@
 h2 {
     font-family: 'FreeMono', monospace;
     font-size: 40px;
-    Color: rgb(0, 255, 98);
+    Color: rgb(9, 255, 0);
     text-align: center;
   }
 
   h3 {
     font-family: 'FreeMono', monospace;
     font-size: 20px;
-    Color: rgb(0, 255, 98);
+    Color: rgb(9, 255, 0);
     text-align: center;
   }
 
@@ -41,7 +41,7 @@ h2 {
   p { 
     font-family: 'FreeMono', monospace;
     font-size: 20px;
-    Color: rgb(0, 255, 98);
+    Color: rgb(9, 255, 0);
     text-align: center;
 
   }
@@ -53,3 +53,4 @@ h2 {
     display: block;
     padding: 10px 10px 10px 10px;
   }
+
