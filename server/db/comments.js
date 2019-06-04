@@ -25,3 +25,5 @@ function deleteComment (id, db = connection) {
     .where('id', id)
     .del()
 }
+
+//test
